@@ -1,1 +1,1 @@
-# Mando-Sushi
+Hello everyone, i'm creating this repo to get better at python. I hope to create how-to's along the way, so everyone can become proficient, and learn from my mistakes. 
