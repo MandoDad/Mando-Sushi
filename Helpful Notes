@@ -1,0 +1,40 @@
+Here are a list of Helpful links:
+
+VS Code, Git, and Python
+- Downloading VS Code for Windows
+    - https://code.visualstudio.com/
+- Downloading git for Windows
+    - https://gitforwindows.org/
+- Managing Terminal on VS Code
+    - https://code.visualstudio.com/docs/editor/integrated-terminal
+- Download Newest Python 3 series
+    - https://www.python.org/downloads/
+
+
+
+Git Help
+- Setup Github on VS Code
+    - http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
+- Installing git on Windows
+    - https://www.atlassian.com/git/tutorials/install-git#windows
+- Git Basics - Recording Changes to the Repository
+    - https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+- Basic Git Commands
+    - https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+- Git Cheat Sheet
+    - https://education.github.com/git-cheat-sheet-education.pdf
+- Git to store GitHub username and password. !!Said to store your password in PLAINTEXT!!
+    - https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension
+- git init
+    - https://git-scm.com/docs/git-init
+- git commit
+    - https://git-scm.com/docs/git-commit
+- git push and pull
+    - https://www.datacamp.com/community/tutorials/git-push-pull
+- if having "PATH" issues and nothing else listed above works
+    - https://stackoverflow.com/questions/29971624/visual-studio-code-cannot-detect-installed-git
+
+
+Vim
+- Vim Cheat Sheet
+    - https://infographicsite.com/wp-content/uploads/2019/05/vim-cheat-sheet.png
